@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/joiellantero/github-stats/3618625564c63fb56fb72e85811b9bd74b234cb1/generated/languages.svg
+![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)

@@ -1,2 +1,2 @@
-![](https://github.com/Nikolay200/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Nikolay200/github-stats/blob/master/generated/languages.svg)
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
